@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<plugin name="contact" version="0.1" active="1">
+  <author>Cyrille Giquello</author>
+  <label>Listusers2</label>
+  <desc>Une autre liste des utilisateurs. Affiche l'adresse email et les groupes des utilisateurs</desc>
+</plugin>
