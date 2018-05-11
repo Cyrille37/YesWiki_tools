@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<plugin name="contact" version="0.1" active="1">
+<plugin name="testsendmail" version="1.0" active="1">
   <author>Cyrille Giquello</author>
   <label>testsendmail</label>
   <desc>Permet d'envoyer un email de test. Pratique pour essayer l'envoi quand il y a un problème de réception.</desc>
